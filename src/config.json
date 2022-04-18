@@ -43,10 +43,12 @@
         "TransferList.Allocating": "#F8F8F2",
         "TransferList.StalledDownloading": "#F8F8F2",
         "TransferList.StalledUploading": "#F8F8F2",
-        "TransferList.Uploading": "#6272A4",
-        "TransferList.ForcedUploading": "#6272A4",
+
+        "TransferList.Uploading": "#BF9292",
+        "TransferList.ForcedUploading": "#BF9292",
         "TransferList.PausedDownloading": "#FFB86C",
-        "TransferList.PausedUploading": "#6272A4",
+        "TransferList.PausedUploading": "#BF9292",
+
         "TransferList.Error": "#FF5555",
         "TransferList.MissingFiles": "#FF5555",
         "TransferList.QueuedDownloading": "#50FA7B",
